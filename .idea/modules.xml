@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PytorchMelodia.iml" filepath="$PROJECT_DIR$/.idea/PytorchMelodia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pytorch-FinalGTZAN.iml" filepath="$PROJECT_DIR$/.idea/Pytorch-FinalGTZAN.iml" />
     </modules>
   </component>
 </project>
